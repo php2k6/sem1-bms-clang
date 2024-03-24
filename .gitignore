@@ -1,0 +1,16 @@
+# Auto-generated files and folders
+userrecord.txt
+main.exe
+*/
+
+# Account folders (5-digit numbers)
+[0-9][0-9][0-9][0-9][0-9]/
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+temp.txt
